@@ -10,6 +10,6 @@ Clonate il repository nella cartella `htdocs` del vostro web server con il segue
 git clone https://github.com/ped-academy/lesson-css.git
 ```
 
-Visitate la pagina [http://localhost/lesson-css](http://localhost/lesson-css) per visualizzare la lista degli esempi
+Visitate la pagina [http://localhost/lesson-css/exercises](http://localhost/lesson-css/exercises) per visualizzare la lista degli esercizi
 
 💪
